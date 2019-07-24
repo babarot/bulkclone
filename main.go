@@ -16,7 +16,7 @@ import (
 )
 
 // Version is version info
-const Version = "0.0.1"
+const Version = "0.0.2"
 
 // Config is
 type Config struct {
